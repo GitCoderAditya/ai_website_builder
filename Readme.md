@@ -51,7 +51,7 @@ GEMINI_API_KEY=your_gemini_api_key
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ai_website_builder.git
+git clone https://github.com/GitCoderAditya/ai_website_builder.git
 cd bolt
 ```
 
