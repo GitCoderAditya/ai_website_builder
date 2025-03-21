@@ -29,8 +29,6 @@ This is an intelligent web development assistant that helps you create and modif
 - Node.js
 - Express
 - Google Gemini AI
-- Anthropic Claude
-- OpenAI
 - CORS
 
 ## Prerequisites
